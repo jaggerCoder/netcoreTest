@@ -1,0 +1,8 @@
+/Users/jagger/Desktop/netmvc/bin/Debug/netcoreapp1.1/netmvc.deps.json
+/Users/jagger/Desktop/netmvc/bin/Debug/netcoreapp1.1/netmvc.runtimeconfig.json
+/Users/jagger/Desktop/netmvc/bin/Debug/netcoreapp1.1/netmvc.runtimeconfig.dev.json
+/Users/jagger/Desktop/netmvc/bin/Debug/netcoreapp1.1/netmvc.dll
+/Users/jagger/Desktop/netmvc/bin/Debug/netcoreapp1.1/netmvc.pdb
+/Users/jagger/Desktop/netmvc/obj/Debug/netcoreapp1.1/netmvc.AssemblyInfo.cs
+/Users/jagger/Desktop/netmvc/obj/Debug/netcoreapp1.1/netmvc.dll
+/Users/jagger/Desktop/netmvc/obj/Debug/netcoreapp1.1/netmvc.pdb
