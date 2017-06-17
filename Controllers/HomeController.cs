@@ -10,7 +10,7 @@ namespace netmvc.Controllers
     {
         public IActionResult Index()
         {
-            string jagger="jjj";
+            string jagger="jj";
             return View();
         }
 
