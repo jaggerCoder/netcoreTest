@@ -10,12 +10,12 @@ namespace netmvc.Controllers
     {
         public IActionResult Index()
         {
-            string jagger="jjj";
             return View();
         }
 
         public IActionResult About()
         {
+            
             ViewData["Message"] = "Your application description page.";
 
             return View();
